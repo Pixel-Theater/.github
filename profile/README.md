@@ -3,14 +3,13 @@
 > [!IMPORTANT]
 > We will be at [Why2025](https://why2025.org) with kits and hands-on hacking from August 7-12, 2025. See our [event wiki page](https://wiki.why2025.org/Village:Pixel_Theater) for details.
 
-
 <img src="./media/pixeltheater-logo.png" alt="Pixel Theater logo" width="400" />
 
 PixelTheater is a platform for creating interactive LED animations on different shaped models constructed from PCBs.
 
 ## Software
 
-PixelTheater's main open-source firmware project is [DodecaRGB-firmware](https://github.com/Pixel-Theater/DodecaRGB-firmware), which powers the DodecaRGB LED model and provides tools for animation, hardware integration, and development. In additionl to the 3d led models, we also have clocks, message blocks and other projects.
+PixelTheater's main open-source firmware project is [DodecaRGB-firmware](https://github.com/Pixel-Theater/DodecaRGB-firmware), which powers the DodecaRGB LED model and provides tools for animation, hardware integration, and development. In additionl to the 3d led models, we also have clocks, message blocks and other projects. 
 
 ## LED Models
 
